@@ -1,3 +1,4 @@
+print("name:aditya.M,USN:1AY24AI004,sec:'M")
 n=int(input("enter a number:"))
 while n!=1:
     print(n,end='->')
