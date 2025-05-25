@@ -1,3 +1,4 @@
+print("name:aditya.M,USN:1AY24AI004,Sec:'m'")
 import random
 choices =['rock','paper','scissor']
 user_choice=input("enter the user choice(Rock,Paper,Scissor):")
